@@ -30,7 +30,7 @@
       "enabled": true
     }
   },
-  "leastVulnerablePackageSettings": {
+  "leastVulnerablePackageSettings": { 
     "enabled": "true"
   }
 }
